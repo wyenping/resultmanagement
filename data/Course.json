@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "5eaffd9fcda0e8729b6bbbeb"
+  },
+  "__v": 0,
+  "Course_Name": "Enterprise System Design and Modelling",
+  "Code": "SCSP3744",
+  "Section": "01",
+  "Student": [
+    {
+      "StudentId": {
+        "$oid": "5eaffd9f439f87134704927a"
+      },
+      "MarkId": {
+        "$oid": "5eaffd9febd17d9fd43c0be0"
+      },
+      "_id": {
+        "$oid": "5eaffd9f07034207384fb7c3"
+      }
+    },
+    {
+      "StudentId": {
+        "$oid": "5eaffd9ff13fd09170b908ad"
+      },
+      "MarkId": {
+        "$oid": "5eaffd9f0ff9108a57101801"
+      },
+      "_id": {
+        "$oid": "5eaffd9f07034207384fb7c2"
+      }
+    },
+    {
+      "StudentId": {
+        "$oid": "5eaffd9f0689523f692faafe"
+      },
+      "MarkId": {
+        "$oid": "5eaffd9f37ad657f4bcb4b82"
+      },
+      "_id": {
+        "$oid": "5eaffd9f07034207384fb7c1"
+      }
+    },
+    {
+      "StudentId": {
+        "$oid": "5eb15a8db03a3a16e05e8d1a"
+      },
+      "MarkId": {
+        "$oid": "5eb15a48b03a3a16e05e8d19"
+      },
+      "_id": {
+        "$oid": "5eb2e78fef3fda16e0615fd7"
+      }
+    },
+    {
+      "StudentId": {
+        "$oid": "5eb2e598b03a3a16e05e8d1e"
+      },
+      "MarkId": {
+        "$oid": "5eb1a04b42f4c179ec9b622f"
+      },
+      "_id": {
+        "$oid": "5eb41f43ef3fda16e0615fdc"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5eaffd9fc5476a5c1efd5196"
+  },
+  "__v": 0,
+  "Course_Name": "Software Engineering",
+  "Code": "SCSP3204",
+  "Section": "01",
+  "Student": [
+    {
+      "StudentId": {
+        "$oid": "5eaffd9f439f87134704927a"
+      },
+      "MarkId": {
+        "$oid": "5eb1a0d47d3a0e70146b31a7"
+      },
+      "_id": {
+        "$oid": "5eb6af0def3fda16e0615fe8"
+      }
+    },
+    {
+      "StudentId": {
+        "$oid": "5eaffd9ff13fd09170b908ad"
+      },
+      "MarkId": {
+        "$oid": "5eb1a247c1ce7c38e433ff08"
+      },
+      "_id": {
+        "$oid": "5eb6af22ef3fda16e0615fe9"
+      }
+    },
+    {
+      "StudentId": {
+        "$oid": "5eaffd9f0689523f692faafe"
+      },
+      "MarkId": {
+        "$oid": "5eb23c44c1ce7c38e433ff0a"
+      },
+      "_id": {
+        "$oid": "5eb6af68ef3fda16e0615feb"
+      }
+    }
+  ]
+}]

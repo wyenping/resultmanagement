@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5eaffd9f439f87134704927a"
+  },
+  "__v": 0,
+  "Name": "Student001",
+  "MatricsNo": "A17CS0001"
+},{
+  "_id": {
+    "$oid": "5eaffd9ff13fd09170b908ad"
+  },
+  "__v": 0,
+  "Name": "Student002",
+  "MatricsNo": "A17CS0002"
+},{
+  "_id": {
+    "$oid": "5eaffd9f0689523f692faafe"
+  },
+  "__v": 0,
+  "Name": "Student003",
+  "MatricsNo": "A17CS0003"
+},{
+  "_id": {
+    "$oid": "5eb15a8db03a3a16e05e8d1a"
+  },
+  "__v": 0,
+  "Name": "Student004",
+  "MatricsNo": "A17CS0004"
+},{
+  "_id": {
+    "$oid": "5eb2e598b03a3a16e05e8d1e"
+  },
+  "__v": 0,
+  "Name": "Student005",
+  "MatricsNo": "A17CS0005"
+}]

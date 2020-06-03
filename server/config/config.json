@@ -1,0 +1,7 @@
+{
+    "development":{
+        "MONGODB_URI":"mongodb://localhost:27017/resultmanagement",
+        "PORT":"3002"
+    }
+
+}

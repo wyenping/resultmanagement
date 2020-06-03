@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "5eaffd9febd17d9fd43c0be0"
+  },
+  "__v": 0,
+  "Assignment": 5,
+  "Quiz": 13,
+  "MidTerm": 20,
+  "Project": 18,
+  "Presentation": 12,
+  "Final": 30
+},{
+  "_id": {
+    "$oid": "5eaffd9f0ff9108a57101801"
+  },
+  "__v": 0,
+  "Assignment": 18,
+  "Quiz": 13,
+  "MidTerm": 10,
+  "Project": 20,
+  "Presentation": 5,
+  "Final": 25
+},{
+  "_id": {
+    "$oid": "5eaffd9f37ad657f4bcb4b82"
+  },
+  "__v": 0,
+  "Assignment": 20,
+  "Quiz": 10,
+  "MidTerm": 15,
+  "Project": 20,
+  "Presentation": 5,
+  "Final": 30
+},{
+  "_id": {
+    "$oid": "5eb15a48b03a3a16e05e8d19"
+  },
+  "__v": 0,
+  "Assignment": 3,
+  "Quiz": 16,
+  "MidTerm": 5,
+  "Project": 4,
+  "Presentation": 20,
+  "Final": 18
+},{
+  "_id": {
+    "$oid": "5eb1a04b42f4c179ec9b622f"
+  },
+  "Assignment": 0,
+  "Quiz": 0,
+  "MidTerm": 0,
+  "Project": 0,
+  "Presentation": 0,
+  "Final": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb1a0d47d3a0e70146b31a7"
+  },
+  "Assignment": 6,
+  "Quiz": 6,
+  "MidTerm": 6,
+  "Project": 6,
+  "Presentation": 6,
+  "Final": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb1a18ac1ce7c38e433ff06"
+  },
+  "Assignment": 5,
+  "Quiz": 5,
+  "MidTerm": 5,
+  "Project": 5,
+  "Presentation": 5,
+  "Final": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb1a247c1ce7c38e433ff08"
+  },
+  "Assignment": 6,
+  "Quiz": 6,
+  "MidTerm": 6,
+  "Project": 6,
+  "Presentation": 6,
+  "Final": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb23c13c1ce7c38e433ff09"
+  },
+  "Assignment": 9,
+  "Quiz": 0,
+  "MidTerm": 2,
+  "Project": 2,
+  "Presentation": 2,
+  "Final": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb23c44c1ce7c38e433ff0a"
+  },
+  "Assignment": 3,
+  "Quiz": 3,
+  "MidTerm": 4,
+  "Project": 4,
+  "Presentation": 5,
+  "Final": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb27ed45746c034b0aaf2b1"
+  },
+  "Assignment": 3,
+  "Quiz": 3,
+  "MidTerm": 4,
+  "Project": 4,
+  "Presentation": 5,
+  "Final": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eb27ed45746c034b0aaf2b0"
+  },
+  "Assignment": 9,
+  "Quiz": 0,
+  "MidTerm": 2,
+  "Project": 2,
+  "Presentation": 2,
+  "Final": 2,
+  "__v": 0
+}]
